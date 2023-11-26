@@ -1,12 +1,28 @@
-## Hi there 👋
+# Project Insight Dev
 
-<!--
+## Tech Stack
 
-**Here are some ideas to get you started:**
+* **Cloudflare**: Domains, CDN, Video
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* **Vercel**: App Hosting
+
+* **Auth0**: Authentication
+
+* **Supabase**: Database & Lite Storage
+
+* **SendGrid**: Email & Notifications
+
+* **Squarespace**: Public Website Hosting
+
+* **Help Scout**: Support & Help Center
+
+* **JotForm**: Online Forms
+
+## Current Apps
+
+1. [**Portal**](https://github.com/project-insight-network/portal) - CJEAI Instructor and Candidate resources + directory of apps + Form Submission Viewer for admins only
+2. [**Roster**](https://github.com/project-insight-network/roster) - A directory of community members
+3. [**Board**](https://github.com/project-insight-network/board) - Board Member resources and archives
+4. [**Help**](https://github.com/project-insight-network/help) - Knowledge base covering all apps
+5. [**Admin**](https://github.com/project-insight-network/admin) - Tools for the team
+6. [**Visioning**](https://github.com/project-insight-network/visioning) - Learning for Visioning Coaches in training
